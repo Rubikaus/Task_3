@@ -1,0 +1,4 @@
+tinytag==1.5.0
+pipenv==2020.8.13
+virtualenv==20.0.31
+virtualenv-clone==0.5.4
